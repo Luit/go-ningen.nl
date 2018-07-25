@@ -1,0 +1,10 @@
+name = "Go-ningen"
+description = "Main Go-ningen theme"
+homepage = "https://go-ningen.nl/"
+tags = []
+features = []
+min_version = "0.44"
+
+[author]
+  name = "Luit van Drongelen"
+  homepage = "https://luit.eu/"

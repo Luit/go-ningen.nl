@@ -1,0 +1,3 @@
+baseURL = "https://go-ningen.nl/"
+languageCode = "en-us"
+theme = "go-ningen"
