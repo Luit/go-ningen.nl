@@ -1,0 +1,7 @@
+{{$data := string .Params.id | index .Site.Data.meetups }}
+<article class="event">
+    <p>
+        <span class="eventdate">{{ dateFormat "January 2, 2006" .Date }}: </span>
+        <a href="{{.RelPermalink}}">{{.Title}}</a>
+    </p>
+</article>

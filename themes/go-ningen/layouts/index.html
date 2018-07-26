@@ -6,6 +6,14 @@
     {{- partial "header.html" . -}}
     <main>
         {{ .Content }}
+        <h2>Upcoming events</h2>
+        {{ range where .Pages.ByDate.Reverse ".Params.status" "upcoming" }}
+        {{ partial "meetup/summary.html" . }}
+        {{ end }}
+        <h2>Past events</h2>
+        {{ range where .Pages.ByDate.Reverse ".Params.status" "past" }}
+        {{ partial "meetup/summary.html" . }}
+        {{ end }}
     </main>
     {{- partial "footer.html" . -}}
 </body>

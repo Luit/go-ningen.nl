@@ -1,0 +1,16 @@
+{{$data := string .Params.id | index .Site.Data.meetups }}
+<article>
+    <a href="{{$data.link}}">
+        <h1>{{.Title}}</h1>
+    </a>
+    <div class="eventdate">{{ dateFormat "02-01-2006" .Date }}</div>
+    <p><b>
+        {{ if eq .Params.status "upcoming" }}
+        To attend this event, RSVP on
+        {{ else }}
+        More details about this event can be found on
+        {{ end }}
+        <a href="{{$data.link}}">Meetup.com</a>.
+    </b></p>
+    {{safeHTML $data.description}}
+</article>

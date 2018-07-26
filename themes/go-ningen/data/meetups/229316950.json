@@ -1,0 +1,43 @@
+{
+  "created": 1457023056000,
+  "duration": 12600000,
+  "id": "229316950",
+  "name": "Go workshop",
+  "rsvp_limit": 16,
+  "status": "past",
+  "time": 1458842400000,
+  "local_date": "2016-03-24",
+  "local_time": "19:00",
+  "updated": 1458919703000,
+  "utc_offset": 3600000,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 12,
+  "venue": {
+    "id": 24081764,
+    "name": "Devhouse Spindle",
+    "lat": 53.20962142944336,
+    "lon": 6.567030906677246,
+    "repinned": false,
+    "address_1": "Achterweg 1",
+    "city": "Groningen",
+    "country": "nl",
+    "localized_country_name": "Netherlands"
+  },
+  "group": {
+    "created": 1413016005000,
+    "name": "Go-ningen",
+    "id": 17546102,
+    "join_mode": "open",
+    "lat": 53.22999954223633,
+    "lon": 6.570000171661377,
+    "urlname": "Go-ningen",
+    "who": "Gophers",
+    "localized_location": "Groningen, Netherlands",
+    "region": "en_US",
+    "timezone": "Europe/Amsterdam"
+  },
+  "link": "https://www.meetup.com/Go-ningen/events/229316950/",
+  "manual_attendance_count": 0,
+  "description": "<p>Go is a small language, but one with a few differences to many common languages. For example, Go supports an Object Oriented style of development, but doesn't have classes, and it has built-in primitives to simplify concurrent programming.</p> <p>This workshop is aimed at introducing these concepts to someone new to Go, but not new to programming in general. </p> <p>Feel welcome to drop by on March 24th at Devhouse Spindle, located in The Big Building. We’ll start at 7:30 PM and of course there will be drinks and snacks to keep you concentrated ;) Hope to see you there!</p> ",
+  "visibility": "public"
+}
