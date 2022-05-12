@@ -4,6 +4,7 @@
   "id": "229316950",
   "name": "Go workshop",
   "rsvp_limit": 16,
+  "date_in_series_pattern": false,
   "status": "past",
   "time": 1458842400000,
   "local_date": "2016-03-24",
@@ -23,6 +24,7 @@
     "country": "nl",
     "localized_country_name": "Netherlands"
   },
+  "is_online_event": false,
   "group": {
     "created": 1413016005000,
     "name": "Go-ningen",
@@ -33,11 +35,14 @@
     "urlname": "Go-ningen",
     "who": "Gophers",
     "localized_location": "Groningen, Netherlands",
+    "state": "",
+    "country": "nl",
     "region": "en_US",
     "timezone": "Europe/Amsterdam"
   },
   "link": "https://www.meetup.com/Go-ningen/events/229316950/",
   "manual_attendance_count": 0,
   "description": "<p>Go is a small language, but one with a few differences to many common languages. For example, Go supports an Object Oriented style of development, but doesn't have classes, and it has built-in primitives to simplify concurrent programming.</p> <p>This workshop is aimed at introducing these concepts to someone new to Go, but not new to programming in general. </p> <p>Feel welcome to drop by on March 24th at Devhouse Spindle, located in The Big Building. We’ll start at 7:30 PM and of course there will be drinks and snacks to keep you concentrated ;) Hope to see you there!</p> ",
-  "visibility": "public"
+  "visibility": "public",
+  "member_pay_fee": false
 }

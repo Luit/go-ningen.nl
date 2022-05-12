@@ -4,6 +4,7 @@
   "id": "252938443",
   "name": "Gobots, roll out!",
   "rsvp_limit": 75,
+  "date_in_series_pattern": false,
   "status": "past",
   "time": 1536858000000,
   "local_date": "2018-09-13",
@@ -23,6 +24,7 @@
     "country": "nl",
     "localized_country_name": "Netherlands"
   },
+  "is_online_event": false,
   "group": {
     "created": 1413016005000,
     "name": "Go-ningen",
@@ -33,10 +35,13 @@
     "urlname": "Go-ningen",
     "who": "Gophers",
     "localized_location": "Groningen, Netherlands",
+    "state": "",
+    "country": "nl",
     "region": "en_US",
     "timezone": "Europe/Amsterdam"
   },
   "link": "https://www.meetup.com/Go-ningen/events/252938443/",
   "description": "<p>Go-ningen is going to be revived! It's been way too long since the last event, so it's time to get together and talk about the Go programming language!</p> <p>This first meetup will feature a presentation from Auke. He will be talking about Gobot.</p> <p>Gobot is a popular open source framework for building robotics and IoT related applications using Go. The framework supports all kinds of hardware, like sensors and buttons. In addition to this, you can use Gobot<br/>to control things like your kids toys or your drone!</p> <p>Auke will talk about several components of Gobot and how to start your own project. The talk will be supported by a few neat demos.</p> <p>You'll be welcome to walk in at 19:00h, the presentation will start at 19:30. Afterwards, there will be plenty of time for a chat while enjoying a cold drink.</p> ",
-  "visibility": "public"
+  "visibility": "public",
+  "member_pay_fee": false
 }
