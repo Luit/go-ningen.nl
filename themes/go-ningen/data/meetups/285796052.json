@@ -5,25 +5,14 @@
   "name": "‘Go on the job’ – Go-ningen @ Klippa",
   "rsvp_limit": 30,
   "date_in_series_pattern": false,
-  "status": "upcoming",
+  "status": "past",
   "time": 1654702200000,
   "local_date": "2022-06-08",
   "local_time": "17:30",
-  "updated": 1652369251000,
+  "updated": 1654718914000,
   "utc_offset": 7200000,
   "waitlist_count": 0,
-  "yes_rsvp_count": 3,
-  "venue": {
-    "id": 27323575,
-    "name": "Klippa App B.V.",
-    "lat": 53.213279724121094,
-    "lon": 6.588919162750244,
-    "repinned": true,
-    "address_1": "Lübeckweg 2",
-    "city": "Groningen",
-    "country": "nl",
-    "localized_country_name": "Netherlands"
-  },
+  "yes_rsvp_count": 29,
   "is_online_event": false,
   "group": {
     "created": 1413016005000,
@@ -40,7 +29,7 @@
     "region": "en_US",
     "timezone": "Europe/Amsterdam"
   },
-  "link": "https://www.meetup.com/Go-ningen/events/285796052/",
+  "link": "https://www.meetup.com/go-ningen/events/285796052/",
   "description": "<p>It's been far too long since the Go community in Groningen came together to share experiences with Go while enjoying pizza’s and cold beers. Therefore Go-ningen &amp; Klippa are joining forces to organise this ‘Go on the job’ meetup on the 8th of June.</p> <p>During this meetup there will be 3 different developers from different companies in Groningen sharing their experiences while using Go on the Job. The event has space for up to 30 people and the planning of this event is as follows:</p> <p>* 17:30 to 18:00 Walk in and coffee<br/>* 18:00 to 18:20 Combining Go with GraphQL by Jeroen Bobbeldijk<br/>* 18:20 to 19:00 Break with pizza and beer<br/>* 19:00 to 19:20 Introduction to Go-Kit by Roelof Jan Elsinga<br/>* 19:20 to 19:40 Building a kiosk using Go by Jos van Bakel<br/>* 19:40 to 21:00 Beers and fun</p> <p>RSVP now, let’s revive the meetup scene together!</p> ",
   "visibility": "public",
   "member_pay_fee": false
