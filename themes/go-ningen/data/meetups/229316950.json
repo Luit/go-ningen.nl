@@ -13,7 +13,19 @@
   "utc_offset": 3600000,
   "waitlist_count": 0,
   "yes_rsvp_count": 12,
+  "venue": {
+    "id": 24081764,
+    "name": "Devhouse Spindle",
+    "lat": 53.20962142944336,
+    "lon": 6.567030906677246,
+    "repinned": false,
+    "address_1": "Achterweg 1",
+    "city": "Groningen",
+    "country": "nl",
+    "localized_country_name": "Netherlands"
+  },
   "is_online_event": false,
+  "eventType": "PHYSICAL",
   "group": {
     "created": 1413016005000,
     "name": "Go-ningen",
