@@ -9,10 +9,10 @@
   "time": 1732811400000,
   "local_date": "2024-11-28",
   "local_time": "17:30",
-  "updated": 1730210220000,
+  "updated": 1732000523000,
   "utc_offset": 3600000,
   "waitlist_count": 0,
-  "yes_rsvp_count": 10,
+  "yes_rsvp_count": 29,
   "venue": {
     "id": 27323575,
     "name": "Klippa App B.V.",
@@ -42,7 +42,7 @@
     "timezone": "Europe/Amsterdam"
   },
   "link": "https://www.meetup.com/go-ningen/events/304267370/",
-  "description": "<p>The popularity and adoption of Go is continuing to grow. So let's make sure that we keep the Go-community in Groningen growing as well.</p> <p>Time for a new Go-ningen event: Go is taking over!</p> <p>On the 28th of November, Klippa is hosting a Go-meetup. Enjoy pizza, beer and in depth presentations on Go, while meeting new people.</p> <p>During this meetup there will be 3 different developers from different companies in Groningen sharing their experiences using Go.</p> <p>The event has space for up to 40 people and the planning of this event is as follows:</p> <p>* 17:30 to 18:00 - Walk in and coffee / beer</p> <p>* 18:00 to 18:30 - WebAssembly in Go, as a compile target and runtime by Jeroen Bobbeldijk</p> <p>* 18:30 to 19:00 - Break with pizza and beer</p> <p>* 19:00 to 19:20 - Second talk will be announced soon</p> <p>* 19:20 to 19:40 - Third talk will be announced soon</p> <p>* 19:40 to 20:30 Beers and fun</p> <p>RSVP now, let’s revive the Go-ningen meetup scene together!</p> ",
+  "description": "<p>The popularity and adoption of Go is continuing to grow. So let's make sure that we keep the Go-community in Groningen growing as well.</p> <p>Time for a new Go-ningen event: Go is taking over!</p> <p>On the 28th of November, Klippa is hosting a Go-meetup. Enjoy pizza, beer and in depth presentations on Go, while meeting new people.</p> <p>During this meetup there will be 3 different developers from different companies in Groningen sharing their experiences using Go.</p> <p>The event has space for up to 40 people and the planning of this event is as follows:</p> <p>* 17:30 to 18:00 - Walk in and coffee / beer<br/>* 18:00 to 18:30 - WebAssembly in Go, as a compile target and runtime - Jeroen Bobbeldijk<br/>* 18:30 to 19:00 - Break with pizza and beer<br/>* 19:00 to 19:20 - Kubernetes Adventures - Jeroen Rinzema<br/>* 19:20 to 19:40 - Understanding Sync Maps: how they work and when to use them - Anna Sorova<br/>* 19:40 to 20:30 Beers and fun</p> <p>RSVP now, let’s revive the Go-ningen meetup scene together!</p> ",
   "visibility": "public",
   "member_pay_fee": false
 }
